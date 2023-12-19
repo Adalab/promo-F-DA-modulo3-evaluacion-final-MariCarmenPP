@@ -16,7 +16,7 @@ Realiza cualquier ajuste o conversión necesaria en las columnas (por ejemplo, c
 
 FASE 2: Visualización
 
-Usando las herramientas de visualización, contesta a las siguientes preguntas usando la mejor gráfica que consideres:
+Usando las herramientas de visualización, contesta a las siguientes preguntas usando la gráfica que consideres más adecuada:
 
 1.¿Cómo se distribuye la cantidad de vuelos reservados por mes durante el año?
 2.¿Existe una relación entre la distancia de los vuelos y los puntos acumulados por los clientes?
