@@ -17,6 +17,7 @@ Realiza cualquier ajuste o conversión necesaria en las columnas (por ejemplo, c
 FASE 2: Visualización
 
 Usando las herramientas de visualización, contesta a las siguientes preguntas usando la mejor gráfica que consideres:
+
 1.¿Cómo se distribuye la cantidad de vuelos reservados por mes durante el año?
 2.¿Existe una relación entre la distancia de los vuelos y los puntos acumulados por los clientes?
 3.¿Cuál es la distribución de los clientes por provincia o estado?
@@ -26,7 +27,8 @@ Usando las herramientas de visualización, contesta a las siguientes preguntas u
 
 FASE 3: Evaluación de Diferencias en Reservas de Vuelos por Nivel Educativo
 
-Objetivo del Ejercicio: Utilizando un conjunto de datos que hemos compartido, se busca evaluar si existen diferencias significativas en el número de vuelos reservados según el nivel educativo de los clientes. Para ello, los pasos que deberas seguir son:
+Objetivo del ejercicio: Utilizando un conjunto de datos que hemos compartido, se busca evaluar si existen diferencias significativas en el número de vuelos reservados según el nivel educativo de los clientes. Estos son los pasos a seguir:
+
 1. Preparación de Datos:
 Filtra el conjunto de datos para incluir únicamente las columnas relevantes: 'Flights Booked' y 'Education'.
 2. Análisis Descriptivo:
